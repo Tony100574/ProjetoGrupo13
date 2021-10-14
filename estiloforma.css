@@ -1,0 +1,86 @@
+body{
+
+    background-color: gainsboro;
+}
+#cabecalho{
+
+ font-family: Arial, Helvetica, sans-serif;color: ghostwhite;   background-color: crimson; border: black;border-radius: 10px;padding: 50px;margin-bottom: 30px;box-shadow: black 5px 5px 5px
+ 
+
+}
+ 
+
+
+a{
+    color: midnightblue;
+    border-radius: 10px 10px 10px;
+    box-shadow:black;
+    color: mediumblue;
+    text-decoration: unset;
+    font: x-large; 
+    flex: 10%;
+    justify-content: space-between;
+
+             
+}
+
+#Quemsomos{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;color: whitesmoke;
+    display: flex; justify-content: space-between;
+    padding-bottom: 10%;
+    border-radius:
+               10px;padding:
+                10px;margin-bottom: 10px;
+                box-shadow:
+                 rgb(15, 214, 75) 5px 5px 5px 
+    
+
+
+}
+
+
+
+#Menu {
+    color: midnightblue;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;color: whitesmoke;
+display: flex; justify-content: space-between;
+padding-bottom: 10%;
+border-radius:
+           10px;padding:
+            10px;margin-bottom: 10px;
+            box-shadow:
+             rgb(15, 214, 75) 5px 5px 5px 
+
+
+
+}
+#videos{ 
+   width: 100%; 
+   background-color: mediumturquoise;border: black;border-radius: 10px;padding: 50px;margin-bottom: 30px;box-shadow: black 5px 5px 5px
+
+}
+#Audios{
+    background-color: olive;border: black;border-radius: 10px;padding: 50px;margin-bottom: 30px;box-shadow: black 5px 5px 5px
+
+}
+#Corpodenoticias{
+    background-color: coral;border: black;border-radius: 10px;padding: 50px;margin-bottom: 30px;box-shadow: black 5px 5px 5px
+
+}
+
+#textos{
+    font-family:
+    Arial, Helvetica, sans-serif;color:
+     black;  background-color:  mediumspringgreen;border: black;border-radius: 10px;padding: 50px;margin-bottom: 30px;box-shadow: black 5px 5px 5px
+
+
+}
+#rodape{
+    background-color: orangered;border: black;border-radius: 10px;padding: 50px;margin-bottom: 30px;box-shadow: black 5px 5px 5px
+
+
+
+
+
+}
